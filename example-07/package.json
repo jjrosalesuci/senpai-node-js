@@ -1,0 +1,9 @@
+{
+    "name": "example-07",
+    "version": "1.0.0",
+    "description": "Ejemplo 7",
+    "main": "index.js",
+    "dependencies": {
+        "print": "^1.0.2"
+    }
+}
