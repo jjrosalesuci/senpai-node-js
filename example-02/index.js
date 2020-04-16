@@ -15,6 +15,6 @@ stream.on('data', (chunk) => {
 
 stream.on('end', () => {
   console.log('finished');
-  console.log(data);
 });
 
+// https://nodejs.org/api/stream.html#stream_event_end
